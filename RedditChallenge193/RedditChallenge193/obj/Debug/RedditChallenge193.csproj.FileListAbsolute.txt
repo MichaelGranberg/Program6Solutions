@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\RedditChallenge193\RedditChallenge193\bin\Debug\RedditChallenge193.exe.config
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\RedditChallenge193\RedditChallenge193\bin\Debug\RedditChallenge193.exe
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\RedditChallenge193\RedditChallenge193\bin\Debug\RedditChallenge193.pdb
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\RedditChallenge193\RedditChallenge193\obj\Debug\RedditChallenge193.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\RedditChallenge193\RedditChallenge193\obj\Debug\RedditChallenge193.exe
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\RedditChallenge193\RedditChallenge193\obj\Debug\RedditChallenge193.pdb

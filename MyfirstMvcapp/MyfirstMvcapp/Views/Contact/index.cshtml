@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Contact Information";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<address>
+    <br />7272 W 26th place
+    Wheat Ridge, CO 80033<br />
+    <abbr >Cell:</abbr>
+    (720) 207-8631
+    <abbr >Home:</abbr>
+    (303) 456-5211
+</address>
+
+<form method="post" action="@Url.Action("Contact", "Contact")">
+    <label for="ContactName">name:</label>
+    <input type="text" id="ContactName" name="ContactName" required />
+     <br /> <br />
+    <label for="ContactEmailID">email:</label>
+    <input type="email" id="ContactEmailID" name="ContactEmailID" />
+    <br /><br />
+    <label for="ContactMessage">message:</label>
+    <input type="text" id="ContactMessage" name="ContactMessage" />
+    <br /><br />
+    <button type="submit" value="Submit">Submit</button>
+
+
+</form>
+<br />
+<article>
+    
+    <strong>Email Me At</strong>   <a href="mailto:mdgranberg@gmail.com">mdgranberg@gmail.com</a><br />
+    
+</article>

@@ -1,0 +1,8 @@
+C:\Users\Technologist SP\Documents\GitHub\LambdaPractice\LambdaPractice\bin\Debug\LambdaPractice.exe.config
+C:\Users\Technologist SP\Documents\GitHub\LambdaPractice\LambdaPractice\bin\Debug\LambdaPractice.exe
+C:\Users\Technologist SP\Documents\GitHub\LambdaPractice\LambdaPractice\bin\Debug\LambdaPractice.pdb
+C:\Users\Technologist SP\Documents\GitHub\LambdaPractice\LambdaPractice\bin\Debug\nunit.framework.dll
+C:\Users\Technologist SP\Documents\GitHub\LambdaPractice\LambdaPractice\bin\Debug\nunit.framework.xml
+C:\Users\Technologist SP\Documents\GitHub\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.exe
+C:\Users\Technologist SP\Documents\GitHub\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.pdb

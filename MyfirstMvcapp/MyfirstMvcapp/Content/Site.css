@@ -1,0 +1,105 @@
+﻿.nav
+{
+  background-color: #334499;
+}
+.navbar
+{
+width:auto;
+display:initial;
+padding:initial;
+overflow-x:visible;
+justify-content:inherit;
+background-color: #334499;
+border-bottom: none;
+}
+
+p.menusomething
+{
+   display:inline-flexbox;
+   margin-right: 150px;
+   margin-top: 50px;
+   margin-left: 150px;
+   padding-right: 100px;
+   width: 300px;
+
+}
+.highschool p
+{
+    margin:auto;
+}
+
+img.align-left
+{
+  float:left;
+  margin-right: 10px;
+
+}
+img.align-right
+{
+float: right;
+margin-left: 10px;
+margin-right: 0;
+}
+p.align-right
+{
+    float:right;
+    display:inline;
+    text-align:start;
+    width: 620px;
+    
+}
+p.align-left
+{
+    float:left;
+    display:inline;
+    text-align:left;
+    width: 400px;
+}
+.align-right article
+{
+    float:right;
+}
+.jumbotron
+{
+    background-color:beige;
+}
+body {
+    padding-top: 50px;
+    padding-bottom:50px;
+    background-color:beige;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+.paragraph p
+{
+
+}
+img
+ {
+  margin-right: 100px;
+}
+footer {
+background-color:azure;
+position:fixed;
+bottom: 0px;
+width: 2000px;
+text-align: center;
+}

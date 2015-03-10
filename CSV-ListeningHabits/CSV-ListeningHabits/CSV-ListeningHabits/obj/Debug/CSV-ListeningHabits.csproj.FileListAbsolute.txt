@@ -1,0 +1,13 @@
+C:\Users\Technologist SP\Documents\GitHub\CSV-ListeningHabits\CSV-ListeningHabits\CSV-ListeningHabits\bin\Debug\CSV-ListeningHabits.exe.config
+C:\Users\Technologist SP\Documents\GitHub\CSV-ListeningHabits\CSV-ListeningHabits\CSV-ListeningHabits\bin\Debug\scrobbledata.csv
+C:\Users\Technologist SP\Documents\GitHub\CSV-ListeningHabits\CSV-ListeningHabits\CSV-ListeningHabits\bin\Debug\CSV-ListeningHabits.exe
+C:\Users\Technologist SP\Documents\GitHub\CSV-ListeningHabits\CSV-ListeningHabits\CSV-ListeningHabits\bin\Debug\CSV-ListeningHabits.pdb
+C:\Users\Technologist SP\Documents\GitHub\CSV-ListeningHabits\CSV-ListeningHabits\CSV-ListeningHabits\bin\Debug\nunit.core.dll
+C:\Users\Technologist SP\Documents\GitHub\CSV-ListeningHabits\CSV-ListeningHabits\CSV-ListeningHabits\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Technologist SP\Documents\GitHub\CSV-ListeningHabits\CSV-ListeningHabits\CSV-ListeningHabits\bin\Debug\nunit.framework.dll
+C:\Users\Technologist SP\Documents\GitHub\CSV-ListeningHabits\CSV-ListeningHabits\CSV-ListeningHabits\bin\Debug\nunit.util.dll
+C:\Users\Technologist SP\Documents\GitHub\CSV-ListeningHabits\CSV-ListeningHabits\CSV-ListeningHabits\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\Technologist SP\Documents\GitHub\CSV-ListeningHabits\CSV-ListeningHabits\CSV-ListeningHabits\bin\Debug\nunit.framework.xml
+C:\Users\Technologist SP\Documents\GitHub\CSV-ListeningHabits\CSV-ListeningHabits\CSV-ListeningHabits\obj\Debug\CSV-ListeningHabits.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\CSV-ListeningHabits\CSV-ListeningHabits\CSV-ListeningHabits\obj\Debug\CSV-ListeningHabits.exe
+C:\Users\Technologist SP\Documents\GitHub\CSV-ListeningHabits\CSV-ListeningHabits\CSV-ListeningHabits\obj\Debug\CSV-ListeningHabits.pdb

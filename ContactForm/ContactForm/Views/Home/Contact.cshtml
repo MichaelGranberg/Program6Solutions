@@ -1,0 +1,33 @@
+﻿@model ContactForm.Models.ContactForm
+{
+    ViewBag.Title = "Contact";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<address>
+    One Microsoft Way<br />
+    Redmond, WA 98052-6399<br />
+    <abbr title="Phone">P:</abbr>
+    425.555.0100
+</address>
+
+<address>
+    <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
+    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+</address>
+
+<form method="post" action="@Url.Action("Contact", "Home")">
+    <label for="ContactName">name:</label>
+    <input type ="text" id="ContactName" name="ContactName" required/>
+    <br/>
+    <label for="ContactEmailID">email:</label>
+    <input type="email" id="ContactEmailID" name="ContactEmailID" />
+    <br/>
+    <label for="ContactMessage">message:</label>
+    <input type="text" id="ContactMessage" name="ContactMessage"/>
+
+    <button type="submit" value="Submit" >Submit</button>/>
+
+
+</form>

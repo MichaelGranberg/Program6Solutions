@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\CheeeseNibbler\CheeseNibbler\CheeseNibbler\bin\Debug\CheeseNibbler.exe.config
+C:\Users\Technologist SP\Documents\GitHub\CheeeseNibbler\CheeseNibbler\CheeseNibbler\bin\Debug\CheeseNibbler.exe
+C:\Users\Technologist SP\Documents\GitHub\CheeeseNibbler\CheeseNibbler\CheeseNibbler\bin\Debug\CheeseNibbler.pdb
+C:\Users\Technologist SP\Documents\GitHub\CheeeseNibbler\CheeseNibbler\CheeseNibbler\obj\Debug\CheeseNibbler.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\CheeeseNibbler\CheeseNibbler\CheeseNibbler\obj\Debug\CheeseNibbler.exe
+C:\Users\Technologist SP\Documents\GitHub\CheeeseNibbler\CheeseNibbler\CheeseNibbler\obj\Debug\CheeseNibbler.pdb

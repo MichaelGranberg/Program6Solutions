@@ -1,0 +1,34 @@
+﻿@{
+    ViewBag.Title = "Contact Information";
+}
+<h2>@ViewBag.Title</h2>
+<h3>@ViewBag.Message</h3>
+
+<address>
+    <br />
+    <abbr >Cell:</abbr>
+    (720) 207-8631
+    <abbr >Home:</abbr>
+    (303) 456-5211
+</address>
+
+<form method="post" action="@Url.Action("Contact", "Contact")">
+    <label for="ContactName">Name:</label>
+    <input type="text" id="ContactName" name="ContactName" required />
+     <br /> <br />
+    <label for="ContactEmailID">Email:</label>
+    <input type="email" id="ContactEmailID" name="ContactEmailID" required />
+    <br /><br />
+    <label for="ContactMessage">Message:</label>
+    <input type="text" id="ContactMessage" name="ContactMessage" />
+    <br /><br />
+    <button type="submit" value="Submit">Submit</button>
+
+
+</form>
+<br />
+<article>
+    
+    <strong>Email Me At</strong>   <a href="mailto:mdgranberg@gmail.com">mdgranberg@gmail.com</a><br />
+    
+</article>

@@ -1,0 +1,8 @@
+C:\Users\Technologist SP\Documents\GitHub\PokerPlayer\PokerPlayer\PokerPlayer\bin\Debug\PokerPlayer.exe.config
+C:\Users\Technologist SP\Documents\GitHub\PokerPlayer\PokerPlayer\PokerPlayer\bin\Debug\PokerPlayer.exe
+C:\Users\Technologist SP\Documents\GitHub\PokerPlayer\PokerPlayer\PokerPlayer\bin\Debug\PokerPlayer.pdb
+C:\Users\Technologist SP\Documents\GitHub\PokerPlayer\PokerPlayer\PokerPlayer\bin\Debug\nunit.framework.dll
+C:\Users\Technologist SP\Documents\GitHub\PokerPlayer\PokerPlayer\PokerPlayer\bin\Debug\nunit.framework.xml
+C:\Users\Technologist SP\Documents\GitHub\PokerPlayer\PokerPlayer\PokerPlayer\obj\Debug\PokerPlayer.exe
+C:\Users\Technologist SP\Documents\GitHub\PokerPlayer\PokerPlayer\PokerPlayer\obj\Debug\PokerPlayer.pdb
+C:\Users\Technologist SP\Documents\GitHub\PokerPlayer\PokerPlayer\PokerPlayer\obj\Debug\PokerPlayer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\InheritanceandInterfaces\InheritanceandInterfaces\bin\Debug\InheritanceandInterfaces.exe.config
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\InheritanceandInterfaces\InheritanceandInterfaces\bin\Debug\InheritanceandInterfaces.exe
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\InheritanceandInterfaces\InheritanceandInterfaces\bin\Debug\InheritanceandInterfaces.pdb
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\InheritanceandInterfaces\InheritanceandInterfaces\obj\Debug\InheritanceandInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\InheritanceandInterfaces\InheritanceandInterfaces\obj\Debug\InheritanceandInterfaces.exe
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\InheritanceandInterfaces\InheritanceandInterfaces\obj\Debug\InheritanceandInterfaces.pdb

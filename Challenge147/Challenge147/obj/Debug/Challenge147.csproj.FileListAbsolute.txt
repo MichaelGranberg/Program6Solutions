@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\Challenge147\Challenge147\bin\Debug\Challenge147.exe.config
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\Challenge147\Challenge147\bin\Debug\Challenge147.exe
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\Challenge147\Challenge147\bin\Debug\Challenge147.pdb
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\Challenge147\Challenge147\obj\Debug\Challenge147.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\Challenge147\Challenge147\obj\Debug\Challenge147.exe
+C:\Users\Technologist SP\Documents\GitHub\CombatSimulator\Challenge147\Challenge147\obj\Debug\Challenge147.pdb

@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Michael Granberg</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+           <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+
+
+     
+    </div>
+    <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+            <li><a href="@Url.Action( "Index", "Home")">Home</a></li>
+            <li><a href="@Url.Action("Index", "About")">My Journey</a></li>
+            <li><a href="@Url.Action("Index", "Contact")">Contact</a></li>
+            <li><a href="@Url.Action("Index", "Resume")">Resume</a></li>
+            <li><a href="@Url.Action("Index", "Work")">Class Work</a></li>
+            <li><a href="@Url.Action("Index", "Projects")">Other Interests</a></li>
+        </ul>
+        </div>
+    </div>
+</div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+ 
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    <footer>
+
+        <h4> Click below to check out my social network sites</h4>
+        <article>
+        <a href="https://www.linkedin.com/pub/michael-granberg/9/771/169" target="_blank"><img src="~/Content/images/linkedin.png"width="60" height="60"/></a>
+        <a href="https://www.pinterest.com/mdgranberg/" target="_blank"><img src="~/Content/images/pinterest.jpg"width="60" height="60"/> </a>
+        <a href="https://www.facebook.com/michael.granberg.7" target="_blank"><img src="~/Content/images/facebook.jpg"width="60" height="60"/></a>
+        <a href="https://plus.google.com/u/0/102896221105759450142/" target="_blank"><img src="~/Content/images/googleplus.jpg"width="60" height="60"/></a>
+        <a href="https://twitter.com/mdgranberg" target="_blank"><img src="~/Content/images/twitter.jpg" width="60" height="60"/></a>
+        <a href="https://foursquare.com/user/33340926" target="_blank"><img src="~/Content/images/foursquare.png" width="60" height="60"/></a>
+        </article>
+    </footer>
+</body>
+
+</html>
